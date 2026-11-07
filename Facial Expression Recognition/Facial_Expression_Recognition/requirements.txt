@@ -1,0 +1,11 @@
+# Tested design target: Python 3.10 - 3.12 on Windows 10/11 (CPU).
+tensorflow>=2.16,<2.20
+numpy>=1.26,<2.2
+pandas>=2.1,<3.0
+opencv-python>=4.9,<5.0
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+streamlit>=1.35
+Pillow>=10.0
+pytest>=8.0
