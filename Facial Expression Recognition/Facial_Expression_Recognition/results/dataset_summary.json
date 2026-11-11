@@ -1,36 +1,36 @@
 {
   "layout": "folders",
-  "source": "D:\\Projects\\Facial_Expression_Recognition\\dataset",
+  "source": "D:\\Projects\\Facial Expression Recognition\\Facial_Expression_Recognition\\dataset",
   "image_shape": [
     48,
     48
   ],
-  "total_images": 35887,
+  "total_images": 30362,
   "corrupt_or_unreadable_files": 0,
   "invalid_csv_rows": 0,
   "resized_images": 0,
   "unknown_class_folders": [],
-  "exact_duplicate_images": 1853,
+  "exact_duplicate_images": 1319,
   "class_counts": {
     "angry": {
-      "test": 958,
+      "test": 45,
       "train": 3995,
-      "total": 4953
+      "total": 4040
     },
     "disgust": {
-      "test": 111,
-      "train": 436,
-      "total": 547
+      "test": 59,
+      "train": 547,
+      "total": 606
     },
     "fear": {
-      "test": 1024,
+      "test": 25,
       "train": 4097,
-      "total": 5121
+      "total": 4122
     },
     "happy": {
-      "test": 1774,
+      "test": 69,
       "train": 7215,
-      "total": 8989
+      "total": 7284
     },
     "neutral": {
       "test": 1233,
@@ -38,14 +38,14 @@
       "total": 6198
     },
     "sad": {
-      "test": 1247,
+      "test": 28,
       "train": 4830,
-      "total": 6077
+      "total": 4858
     },
     "surprise": {
-      "test": 831,
+      "test": 83,
       "train": 3171,
-      "total": 4002
+      "total": 3254
     }
   }
 }

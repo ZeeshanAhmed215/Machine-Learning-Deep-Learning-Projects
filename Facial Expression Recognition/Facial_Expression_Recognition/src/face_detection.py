@@ -11,7 +11,9 @@ from src.preprocessing import to_grayscale
 
 Box = Tuple[int, int, int, int]  # x, y, width, height
 
-CASCADE_FILENAME = "haarcascade_frontalface_default.xml"
+CASCADE_FILENAME = r"D:\Projects\Facial Expression Recognition\Facial_Expression_Recognition\haarcascade_frontalface_default.xml"
+# New safe code
+
 
 
 class FaceDetectorError(RuntimeError):
