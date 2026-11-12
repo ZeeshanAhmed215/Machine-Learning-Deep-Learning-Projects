@@ -5,27 +5,27 @@
     48,
     48
   ],
-  "total_images": 35887,
+  "total_images": 57683,
   "corrupt_or_unreadable_files": 0,
   "invalid_csv_rows": 0,
   "resized_images": 0,
   "unknown_class_folders": [],
-  "exact_duplicate_images": 1853,
+  "exact_duplicate_images": 2748,
   "class_counts": {
     "angry": {
       "test": 958,
-      "train": 3995,
-      "total": 4953
+      "train": 7215,
+      "total": 8173
     },
     "disgust": {
       "test": 111,
-      "train": 436,
-      "total": 547
+      "train": 7215,
+      "total": 7326
     },
     "fear": {
       "test": 1024,
-      "train": 4097,
-      "total": 5121
+      "train": 7215,
+      "total": 8239
     },
     "happy": {
       "test": 1774,
@@ -34,18 +34,18 @@
     },
     "neutral": {
       "test": 1233,
-      "train": 4965,
-      "total": 6198
+      "train": 7215,
+      "total": 8448
     },
     "sad": {
       "test": 1247,
-      "train": 4830,
-      "total": 6077
+      "train": 7215,
+      "total": 8462
     },
     "surprise": {
       "test": 831,
-      "train": 3171,
-      "total": 4002
+      "train": 7215,
+      "total": 8046
     }
   }
 }
