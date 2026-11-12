@@ -77,7 +77,6 @@ The dataset consists of **57,683** grayscale facial images (`48×48` pixels) acr
 
 <p align="center">
   <img src="results/class_distribution.png" alt="Class Distribution" width="48%"/>
-  <img src="results/sample_images.jpg" alt="Sample Images per Class" width="48%"/>
 </p>
 
 ---
