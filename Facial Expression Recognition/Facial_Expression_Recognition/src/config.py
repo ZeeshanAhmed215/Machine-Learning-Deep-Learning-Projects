@@ -4,6 +4,7 @@ Every path is derived from the project root, so the project can live anywhere.
 The dataset location can be overridden with the FER_DATASET_DIR environment
 variable if the data is stored elsewhere.
 """
+
 from __future__ import annotations
 
 import os
